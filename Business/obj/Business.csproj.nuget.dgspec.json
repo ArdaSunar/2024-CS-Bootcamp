@@ -1,34 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ardasunar/Desktop/2024 C# BootCamp/MaskeTakip/Business/Business.csproj": {}
+    "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-MaskeTakip\\Business\\Business.csproj": {}
   },
   "projects": {
-    "/Users/ardasunar/Desktop/2024 C# BootCamp/MaskeTakip/Business/Business.csproj": {
+    "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-MaskeTakip\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ardasunar/Desktop/2024 C# BootCamp/MaskeTakip/Business/Business.csproj",
+        "projectUniqueName": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-MaskeTakip\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/MaskeTakip/Business/Business.csproj",
-        "packagesPath": "/Users/ardasunar/.nuget/packages/",
-        "outputPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/MaskeTakip/Business/obj/",
+        "projectPath": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-MaskeTakip\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\ardas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-MaskeTakip\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ardasunar/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ardas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/ardasunar/Desktop/2024 C# BootCamp/MaskeTakip/Entities/Entities.csproj": {
-                "projectPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/MaskeTakip/Entities/Entities.csproj"
+              "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-MaskeTakip\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-MaskeTakip\\Entities\\Entities.csproj"
               }
             }
           }
@@ -37,11 +38,38 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,27 +86,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/ardasunar/Desktop/2024 C# BootCamp/MaskeTakip/Entities/Entities.csproj": {
+    "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-MaskeTakip\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ardasunar/Desktop/2024 C# BootCamp/MaskeTakip/Entities/Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-MaskeTakip\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/MaskeTakip/Entities/Entities.csproj",
-        "packagesPath": "/Users/ardasunar/.nuget/packages/",
-        "outputPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/MaskeTakip/Entities/obj/",
+        "projectPath": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-MaskeTakip\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\ardas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-MaskeTakip\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ardasunar/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ardas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -91,6 +120,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -112,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
