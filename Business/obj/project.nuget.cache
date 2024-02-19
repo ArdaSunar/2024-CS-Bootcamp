@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Z/zI+QTYNbZdI8Cbk1n8NnK9uaJPAiqUzZECujub/AHP4ZfBmIIwUuxNIncsEGTwXNRBcVV8OjiFxyxE0sE1ag==",
+  "dgSpecHash": "XMIF7Us/htVK/j3W8wOjo13l1OK2Xds9FqhLJEruZyD2TywvCcxR/e0iTgNOtKdKHSHo8m+gZ6mVZULgXIwIMw==",
   "success": true,
-  "projectFilePath": "/Users/ardasunar/Desktop/2024 C# BootCamp/MaskeTakip/Business/Business.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ardas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\ardas\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\ardas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
