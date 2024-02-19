@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Entities
-build_property.ProjectDir = C:\Users\ardas\Desktop\2024 C# Bootcamp\2024-CS-Bootcamp\Entities\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = /Users/ardasunar/Desktop/2024 C# BootCamp/MaskeTakip/Entities/

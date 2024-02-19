@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZsDEgZreZnzkIeAAwmUtj8NjJ4Vkb0dYPk+fVOFafXKStVKV56mBwsOw1gfAXMV4+L85OLXP5TPhwU5wxGcxjg==",
+  "dgSpecHash": "++rk+UBOz9jr0WyQCdT3YddXC4z0/ILFBPVhnfV5W9k3F0VJsEJsb3qdiB20POoRiT1GC1BO7n6M2RdQLnJ9SQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp\\Workspace\\Workspace.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ardas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\ardas\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\ardas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\ardas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/ardasunar/Desktop/2024 C# BootCamp/MaskeTakip/Workspace/Workspace.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
