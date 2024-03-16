@@ -8,7 +8,7 @@ static void Greeting(string name="noname")
 
 }
 
-Greeting();
+Greeting("Arda");
 
 //Generic listing
 List<string> cities1 = new List<string> { "Ankara", "İstanbul", "İzmir" };
